@@ -1,5 +1,4 @@
-# dummyRepo
-this repo contains code for my learning purpose only and may not be related to each other
+# newtons-unconstrained-optimisation
 
 newtonsMethod.cpp -
 this a CPP program in OOPs paradigm that calculates and display iterations for newtons method for unconstrained optimisation problems involving simultaneous equation with multivariable function
